@@ -49,7 +49,7 @@ function sortearAmigo() {
 
         if ( de === para) {
             alert('Erro no sorteio. Por favor, insira mais um amigo.');
-            adicionarAmigo();
+            sortearAmigo;
             return;
         }
 
