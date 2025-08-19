@@ -47,11 +47,11 @@ function sortearAmigo() {
         let de = amigos[i];
         let para = amigosEmbaralhados[i];
 
-        if ( de === para) {
-            alert('Erro no sorteio. Por favor, insira mais um amigo.');
-            sortearAmigo();
-            return;
-        }
+        //if ( de === para) {
+            //alert('Erro no sorteio. Por favor, insira mais um amigo.');
+            //sortearAmigo();
+            //return;
+        //}
 
         let li = document.createElement('li');
         li.textContent = `O amigo secreto de ${de} é ${para}`;
