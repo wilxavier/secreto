@@ -29,7 +29,7 @@ Siga os passos abaixo para realizar seu sorteio de amigo secreto:
 *(insira aqui a imagem da tela de adição de nomes)*  
 
 - **Resultado do sorteio:**  
-<img src="./assets/t1.png" alt="Tela inicial do sorteio" width="100"> 
+<img src="./assets/t1.png" alt="Tela inicial do sorteio" width="400"> 
 
 ---
 
